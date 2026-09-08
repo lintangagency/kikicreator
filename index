@@ -17,8 +17,8 @@
 <body>
   <iframe 
     src="https://script.google.com/macros/s/AKfycbwiO6VEIg5KTrJK6GuRe_S0YNrTDcZwk7OSxuLLqGnSxqwBitIlFgQzZnf1s7ulINUojw/exec" 
-    allow="geolocation; camera; microphone"
-    sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-modals">
+    allow="fullscreen; clipboard-read; clipboard-write; geolocation; camera; microphone"
+    allowfullscreen>
   </iframe>
 </body>
 </html>
